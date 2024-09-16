@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://adusedeo.github.io/sitemap/sitemap.txt
